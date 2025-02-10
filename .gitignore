@@ -1,0 +1,6 @@
+output
+.cache
+.idea
+*log
+*json
+.DS_Store
