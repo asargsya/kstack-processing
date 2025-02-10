@@ -1,6 +1,6 @@
 # Kstack processing
 
-The Kstack dataset processing is managed using Prefect. The dataset, which comprises open-source Kotlin code, is sourced from the Hugging Face repository. We employ a near-deduplication algorithm to eliminate duplicate entries. Additionally, dataset quality is verified using Deedqu.
+The Kstack dataset processing is managed using Prefect. The dataset, which comprises open-source Kotlin code, is sourced from the Hugging Face repository. We employ a near-deduplication algorithm to eliminate duplicate entries. Additionally, dataset quality is verified using Deequ.
 
 
 # Near deduplication
